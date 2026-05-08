@@ -11,14 +11,6 @@
 - KPI dashboards and automation tools  
 - Backend services and data synchronization pipelines  
 
-## 🔧 Tech Stack
-- Desktop Application Development (.Net, C#, VB.Net, WinForms, WPF)
-- Full‑stack Web Development (PHP, HTML, JavaScript, JQuery)
-- Databases: SQL Server, MySQL, SQLite — Design, queries, optimization
-- Scripting / Automation Stack (Python, VBA)
-- Backend development & integrations (ETL, Web API / REST API) 
-- Enterprise platforms (CRM, ERP, MES, WMS)
-
 ---
 
 <table style="border: 0px solid white; border-collapse: collapse;">
@@ -35,6 +27,16 @@
 
 ---
 
+## 🔧 Tech Stack
+- Desktop Application Development (.Net, C#, VB.Net, WinForms, WPF)
+- Full‑stack Web Development (PHP, HTML, JavaScript, JQuery)
+- Databases: SQL Server, MySQL, SQLite — Design, queries, optimization
+- Scripting / Automation Stack (Python, VBA)
+- Backend development & integrations (ETL, Web API / REST API) 
+- Enterprise platforms (CRM, ERP, MES, WMS)
+
+---
+
 ## 🔌 Communication Protocols & Industrial Connectivity
 - OPC UA (client integration, data nodes, subscriptions)
 - Modbus TCP/RTU (register mapping, polling, data acquisition)
@@ -42,12 +44,6 @@
 - FTP/SFTP automation (file transfer pipelines)
 - Fanuc FOCAS / CNC data access
 - Integration of heterogeneous industrial and enterprise systems
-
----
-
-<div align="center">  
-  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
-</div>
 
 ---
 
@@ -60,6 +56,12 @@
 - Windows Services, Task Scheduler  
 - Excel/Access (VBA automation), PowerShell  
 - REST clients, API testing tools, JSON/XML analyzers  
+
+---
+
+<div align="center">  
+  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
+</div>
 
 ---
 
