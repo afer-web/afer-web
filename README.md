@@ -3,7 +3,21 @@
   <p>Full‑Stack Software Engineer experienced in backend integrations and enterprise systems like CRM, ERP, MES and WMS.</p>
 </div>
 
+---
 
+<div align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" 
+    height="180" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://stats.dooboo.io/api/top-langs?login=afer-web&theme=tokyonight" 
+    height="180" 
+  />
+</div>
 
 ---
 
