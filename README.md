@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Antonino 👋</h1>
+  <p>Full‑Stack Software Engineer experienced in backend integrations and enterprise systems like CRM, ERP, MES and WMS.</p>
+</div>
 
-<!--
-**afer-web/afer-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=tokyonight" />
+</div>
