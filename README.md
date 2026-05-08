@@ -11,26 +11,17 @@
 
 ---
 
-<table style="border: 10px solid red; border-collapse: collapse;">
-<tr style="border: none;">
-<td style="border: none; padding: 0 10px 0 0;">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight"
-height="200"
-/>
-</td>
-
-<td style="border: none;">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight"
-height="200"
-/>
-</td>
-</tr>
+<table style="border: 0px solid white; border-collapse: collapse;">
+  <tr style="border: none;">
+  <td style="border: none; padding: 0 10px 0 0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200" />
+  </td>
+  
+  <td style="border: none;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" height="200" />
+  </td>
+  </tr>
 </table>
-
-
-
 
 ---
 
