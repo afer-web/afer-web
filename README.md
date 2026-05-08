@@ -11,7 +11,7 @@
 
 ---
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: 10px solid red; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none; padding: 0 10px 0 0;">
 <img
