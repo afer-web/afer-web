@@ -5,20 +5,6 @@
 
 ---
 
-<table style="border: 0px solid white; border-collapse: collapse;">
-  <tr style="border: none;">
-  <td style="border: none; padding: 0 10px 0 0;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200" />
-  </td>
-  
-  <td style="border: none;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" height="200" />
-  </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Projects
 - Integration services for enterprise systems  
 - Lightweight MES prototype  
@@ -34,12 +20,28 @@
 
 ---
 
-<div align="center">  
-  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
-</div>
+<table style="border: 0px solid white; border-collapse: collapse;">
+  <tr style="border: none;">
+  <td style="border: none; padding: 0 10px 0 0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200" />
+  </td>
+  
+  <td style="border: none;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" height="200" />
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/antonino-ferrara-68bb6b103/  
-- Portfolio: https://aferrara.altervista.org/portfolio 
+- Portfolio: https://aferrara.altervista.org/portfolio
+
+---
+
+<div align="center">  
+  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
+</div>
+
+---
