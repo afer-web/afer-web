@@ -3,21 +3,7 @@
   <p>Full‑Stack Software Engineer experienced in backend integrations and enterprise systems like CRM, ERP, MES and WMS.</p>
 </div>
 
----
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afer-web&show_icons=true&theme=tokyonight" 
-    height="180" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afer-web&layout=compact&theme=tokyonight" 
-    height="180" 
-  />
-</div>
 
 ---
 
