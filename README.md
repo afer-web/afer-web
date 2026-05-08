@@ -7,12 +7,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img 
-    src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" 
-    height="180" 
-  />
-
-  <!-- Top Languages -->
+  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" />
 
 </div>
@@ -20,11 +15,7 @@
 ---
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=afer-web&theme=tokyonight" 
-    height="200" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" />
 </div>
 
 ---
