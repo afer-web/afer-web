@@ -8,13 +8,13 @@
 <div align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=afer-web&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afer-web&show_icons=true&theme=tokyonight" 
     height="180" 
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=afer-web&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afer-web&layout=compact&theme=tokyonight" 
     height="180" 
   />
 </div>
