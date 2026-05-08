@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<table>
+<table border=0>
 <tr>
 <td>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200"/>
