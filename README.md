@@ -38,11 +38,12 @@
 - Backend services and data synchronization pipelines  
 
 ## 🔧 Tech Stack
-- C#, PHP, SQL  
+- .Net, C#, PHP, VB.Net, MSSQL Server, MySQL, HTML, JavaScript, Python, WPF
+- Desktop application development
+- Full‑stack web development  
 - Backend development & integrations  
 - Enterprise platforms (CRM, ERP, MES, WMS)  
-- Full‑stack web development  
 
 ## 📫 Connect
-- LinkedIn:  
-- Portfolio:  
+- LinkedIn: https://www.linkedin.com/in/antonino-ferrara-68bb6b103/  
+- Portfolio: https://aferrara.altervista.org/portfolio 
