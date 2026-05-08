@@ -6,15 +6,43 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=afer-web&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+    height="180" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=afer-web&layout=compact&theme=tokyonight&cache_seconds=86400" 
+    height="180" 
+  />
 </div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=afer-web&theme=tokyonight" 
+    height="200" 
+  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TUO_USERNAME&theme=tokyonight" />
-</div>
+---
 
+## 🚀 Projects
+- Integration services for enterprise systems  
+- Lightweight MES prototype  
+- KPI dashboards and automation tools  
+- Backend services and data synchronization pipelines  
 
+## 🔧 Tech Stack
+- C#, PHP, SQL  
+- Backend development & integrations  
+- Enterprise platforms (CRM, ERP, MES, WMS)  
+- Full‑stack web development  
+
+## 📫 Connect
+- LinkedIn:  
+- Portfolio:  
