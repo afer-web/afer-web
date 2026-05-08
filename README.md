@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" 
     height="200" 
