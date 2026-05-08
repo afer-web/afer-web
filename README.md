@@ -13,10 +13,8 @@
   />
 
   <!-- Top Languages -->
-  <img 
-    src="https://stats.dooboo.io/api/top-langs?login=afer-web&theme=tokyonight" 
-    height="180" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" />
+
 </div>
 
 ---
