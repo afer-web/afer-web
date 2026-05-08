@@ -13,16 +13,20 @@
 
 ---
 
-<div align="left">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" 
-    height="200" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" 
-    height="200" 
-  />
+<div style="display: flex; gap: 10px; align-items: center;">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight"
+  height="200"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight"
+  height="200"
+/>
+
 </div>
+
 
 ---
 
