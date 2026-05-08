@@ -35,14 +35,36 @@
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/antonino-ferrara-68bb6b103/  
-- Portfolio: https://aferrara.altervista.org/portfolio
+## 🔌 Communication Protocols & Industrial Connectivity
+- OPC UA (client integration, data nodes, subscriptions)
+- Modbus TCP/RTU (register mapping, polling, data acquisition)
+- TCP/IP socket communication (custom binary/text protocols)
+- FTP/SFTP automation (file transfer pipelines)
+- Fanuc FOCAS / CNC data access
+- Integration of heterogeneous industrial and enterprise systems
 
 ---
 
 <div align="center">  
   <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
 </div>
+
+---
+
+## 🛠️ Tools & Environment
+- Visual Studio, Visual Studio Code  
+- SQL Server Management Studio, MySQL Workbench  
+- Postman, Fiddler, Swagger / OpenAPI  
+- Git, GitHub, Git Extensions  
+- Docker (containers for services and testing)  
+- Windows Services, Task Scheduler  
+- Excel/Access (VBA automation), PowerShell  
+- REST clients, API testing tools, JSON/XML analyzers  
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/antonino-ferrara-68bb6b103/  
+- Portfolio: https://aferrara.altervista.org/portfolio
 
 ---
