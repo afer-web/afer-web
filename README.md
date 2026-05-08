@@ -5,10 +5,6 @@
 
 ---
 
-<div align="center">  
-  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
-</div>
-
 <table style="border: 0px solid white; border-collapse: collapse;">
   <tr style="border: none;">
   <td style="border: none; padding: 0 10px 0 0;">
@@ -35,6 +31,14 @@
 - Full‑stack web development  
 - Backend development & integrations  
 - Enterprise platforms (CRM, ERP, MES, WMS)  
+
+---
+
+<div align="center">  
+  <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
+</div>
+
+---
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/antonino-ferrara-68bb6b103/  
