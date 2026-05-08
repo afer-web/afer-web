@@ -16,14 +16,13 @@
 <div align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" 
-    width="45%" 
+    height="200" 
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" 
-    width="45%" 
+    height="200" 
   />
 </div>
-
 
 ---
 
