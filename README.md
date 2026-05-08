@@ -6,12 +6,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antonino&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </div>
-
----
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonino&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonino&theme=tokyonight" />
+</div>
+
