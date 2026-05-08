@@ -12,11 +12,12 @@
 - Backend services and data synchronization pipelines  
 
 ## 🔧 Tech Stack
-- .Net, C#, PHP, VB.Net, MSSQL Server, MySQL, HTML, JavaScript, Python, WPF
-- Desktop application development
-- Full‑stack web development  
-- Backend development & integrations  
-- Enterprise platforms (CRM, ERP, MES, WMS)  
+- Desktop Application Development (.Net, C#, VB.Net, WinForms, WPF)
+- Full‑stack Web Development (PHP, HTML, JavaScript, JQuery)
+- Databases: SQL Server, MySQL, SQLite — Design, queries, optimization
+- Scripting / Automation Stack (Python, VBA)
+- Backend development & integrations (ETL, Web API / REST API) 
+- Enterprise platforms (CRM, ERP, MES, WMS)
 
 ---
 
