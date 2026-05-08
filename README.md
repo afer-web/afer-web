@@ -9,8 +9,6 @@
   <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
 </div>
 
----
-
 <table style="border: 0px solid white; border-collapse: collapse;">
   <tr style="border: none;">
   <td style="border: none; padding: 0 10px 0 0;">
