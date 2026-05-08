@@ -5,27 +5,25 @@
 
 ---
 
-<div align="center">
-  <!-- GitHub Stats -->
+<div align="center">  
   <img src="https://stats.dooboo.io/api/github-stats?login=afer-web&theme=tokyonight" height="180" />
-
 </div>
 
 ---
 
 <div align="center">
-
-<table border=0>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200"/>
-</td>
-
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" height="200"/>
-</td>
-</tr>
-</table>
+  
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afer-web&theme=tokyonight" height="200"/>
+      </td>
+      
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afer-web&theme=tokyonight" height="200"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
