@@ -1,6 +1,6 @@
 <div align="justify">
   <h1>Hi, I'm Antonino 👋</h1>
-  <p>Full‑Stack Software Engineer with extensive experience in backend development, enterprise integrations, and the implementation of business‑critical software. I work on connecting CRM, ERP, MES, and WMS systems through reliable services, automation logic, and data orchestration layers. My approach combines clean architecture, practical problem‑solving, and a strong focus on building solutions that improve operational efficiency and support long‑term scalability.</p>
+  <p>Full‑Stack Software Engineer with a master’s degree in Electronic Engineering and extensive experience in backend development, enterprise integrations, and the implementation of business‑critical software. I work on connecting CRM, ERP, MES, and WMS systems through reliable services, automation logic, and data‑orchestration layers. My approach combines clean architecture, practical problem‑solving, and a strong focus on building solutions that improve operational efficiency and support long‑term scalability.</p>
 </div>
 
 ---
